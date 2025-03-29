@@ -1,2 +1,8 @@
-<h3>Hi!</h3>
+## :cyclone: *welcome to my profile page!* :cyclone:
+*** 
+My name is Phoebe, and I'm aiming to get my bachelor's degree in *Media Arts and Sciences.* 
 
+Creation is my passion in all forms; there is always something to be made. 
+
+I'll cut to the chase and show you my cat, Salem. :octocat:
+![Salem enjoying her favorite chair](P - Personal/Documents/git215/m2/salem_kitty.png)
