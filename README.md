@@ -4,5 +4,6 @@ My name is Phoebe, and I'm aiming to get my bachelor's degree in *Media Arts and
 
 Creation is my passion in all forms; there is always something to be made. 
 
-I'll cut to the chase and show you my cat, Salem. :octocat:
-![Salem enjoying her favorite chair](P - Personal/Documents/git215/m2/salem_kitty.png)
+I'll cut to the chase and show you my cat, Salem, or Sa-Sa. :octocat:
+
+![Salem in her favorite spot!]("C:\Users\phoeb\OneDrive\Documentos\git215\m2\salem_kitty.png")
